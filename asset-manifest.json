@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amit-labs/static/css/main.af116763.css",
-    "main.js": "/amit-labs/static/js/main.3b9812e7.js",
+    "main.css": "/amit-labs/static/css/main.4088917c.css",
+    "main.js": "/amit-labs/static/js/main.097a4d9a.js",
     "static/js/787.d1d4a2c2.chunk.js": "/amit-labs/static/js/787.d1d4a2c2.chunk.js",
     "static/media/0GUL4014.png": "/amit-labs/static/media/0GUL4014.eb240b99975270a6ded6.png",
     "static/media/0GUL3977.png": "/amit-labs/static/media/0GUL3977.dee560d231797a07b4c2.png",
@@ -25,13 +25,17 @@
     "static/media/cryo box.JPG": "/amit-labs/static/media/cryo box.c9c5c0cf95439e84590a.JPG",
     "static/media/login.jpg": "/amit-labs/static/media/login.b754eb7683e25a120003.jpg",
     "static/media/logo.png": "/amit-labs/static/media/logo.bb1b357de5c28b48f123.png",
+    "static/media/slick.svg": "/amit-labs/static/media/slick.7ba97953187dc2907930.svg",
+    "static/media/slick.eot": "/amit-labs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/amit-labs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/amit-labs/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/amit-labs/index.html",
-    "main.af116763.css.map": "/amit-labs/static/css/main.af116763.css.map",
-    "main.3b9812e7.js.map": "/amit-labs/static/js/main.3b9812e7.js.map",
+    "main.4088917c.css.map": "/amit-labs/static/css/main.4088917c.css.map",
+    "main.097a4d9a.js.map": "/amit-labs/static/js/main.097a4d9a.js.map",
     "787.d1d4a2c2.chunk.js.map": "/amit-labs/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af116763.css",
-    "static/js/main.3b9812e7.js"
+    "static/css/main.4088917c.css",
+    "static/js/main.097a4d9a.js"
   ]
 }
