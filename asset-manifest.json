@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/amit-labs/static/css/main.94e6a214.css",
-    "main.js": "/amit-labs/static/js/main.e4629362.js",
+    "main.css": "/amit-labs/static/css/main.cd7b43a9.css",
+    "main.js": "/amit-labs/static/js/main.9390ad15.js",
     "static/js/787.d1d4a2c2.chunk.js": "/amit-labs/static/js/787.d1d4a2c2.chunk.js",
     "static/media/chemical.png": "/amit-labs/static/media/chemical.42a0e750ed03d8fce6c2.png",
     "static/media/login.jpg": "/amit-labs/static/media/login.b754eb7683e25a120003.jpg",
     "static/media/logo.png": "/amit-labs/static/media/logo.bb1b357de5c28b48f123.png",
     "index.html": "/amit-labs/index.html",
-    "main.94e6a214.css.map": "/amit-labs/static/css/main.94e6a214.css.map",
-    "main.e4629362.js.map": "/amit-labs/static/js/main.e4629362.js.map",
+    "main.cd7b43a9.css.map": "/amit-labs/static/css/main.cd7b43a9.css.map",
+    "main.9390ad15.js.map": "/amit-labs/static/js/main.9390ad15.js.map",
     "787.d1d4a2c2.chunk.js.map": "/amit-labs/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94e6a214.css",
-    "static/js/main.e4629362.js"
+    "static/css/main.cd7b43a9.css",
+    "static/js/main.9390ad15.js"
   ]
 }
